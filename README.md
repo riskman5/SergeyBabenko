@@ -21,6 +21,7 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3/4-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Web MVC](https://img.shields.io/badge/Spring_Web_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
 ![GraalVM](https://img.shields.io/badge/Virtual_Threads-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,12 +67,10 @@
 - **Yandex Backend Summer School** — team project whose idea shipped in Yandex Music: playlist generation from a text prompt via Yandex GPT *(2024)*
 - **T-Academy** — Scala Backend track *(2025)*
 
-## 📊 Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=riskman5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskman5&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook" alt="Top languages" />
-</p>
+## 📊 Activity
+ 
+<img src="https://ghchart.rshah.org/409ba5/riskman5" alt="Contribution graph" width="100%" />
 
 ## 🔗 Contacts
 
