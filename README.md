@@ -5,7 +5,6 @@
 
 - 💳 Working on the **Single Entry Point for Payments & Transfers** platform: new payment methods, monolith decomposition, load testing, releases & on-call
 - 🎓 Thesis: migrating a payment-platform component from **Spring WebFlux** to **Spring MVC + Virtual Threads**, with before/after performance analysis
-- 🤖 In side projects I drive development with AI assistants as a tool: task decomposition with DoD, review of every change, tests — commit & PR history reflects that process
 
 ## 🧰 Toolbox
 
@@ -57,8 +56,9 @@
 | **[steam-trading](https://github.com/riskman5/steam-trading)** | Analytics platform for the Steam Market (CS2): price time-series collection, anomaly detection, Telegram bot, MCP server for LLM access | Java · Spring Boot 4 · Spring Modulith · Spring AI · PostgreSQL |
 | **[vidosik](https://github.com/riskman5/vidosik)** | Pipeline turning long videos into Shorts/Reels: yt-dlp → Whisper → LLM → FFmpeg → auto-publish to YouTube/Instagram/TikTok | Kotlin · Spring Boot 4 · React · Ollama |
 | **[edbotik](https://github.com/riskman5/edbotik)** | IT quiz platform for Telegram channels: LLM-generated questions, review workflow, Mini App — full K8s/Helm/Vault/CI production loop | Kotlin · Spring Boot 4 · React 19 · Kubernetes |
+| **[levels](https://github.com/riskman5/levels)** | Telegram Mini App turning a personal goal into a ladder of milestones and an isometric tower you climb: streak freezes, Stars-based stakes, progress verified from external APIs | React 19 · TypeScript · Cloudflare Workers KV |
 | **[CashbackHelper](https://github.com/riskman5/CashbackHelper)** | REST service that picks the best bank card for a purchase by cashback | Java 21 · Spring Boot · PostgreSQL |
-| **[DAO tres](https://is-dapps-platforms-y26.github.io/team-4-tres)** | Decentralized app with on-chain governance: ERC20Votes token, DAO contract, MetaMask frontend | Solidity · Hardhat · React |
+| **[DAO tres](https://riskman5.github.io/team-4-tres/)** | Decentralized app with on-chain governance: ERC20Votes token, DAO contract, MetaMask frontend | Solidity · Hardhat · React |
 
 ## 💼 Experience
 
@@ -76,4 +76,4 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@riskman31-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/riskman31)
 [![Email](https://img.shields.io/badge/Email-sergj.babenko@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergj.babenko@gmail.com)
-[![GitLab](https://img.shields.io/badge/GitLab-coursework-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/riskman51/labworks)
+[![GitLab](https://img.shields.io/badge/GitLab-labworks-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/riskman51/labworks)
